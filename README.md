@@ -13,7 +13,7 @@ I've organized useful certification topics, preparation guidance, and learning r
 
 **GitHub Repository:** [IAPP AIGP Certification](YOUR_GITHUB_REPOSITORY_URL)
 
-For additional preparation, I also recommend [CertsGate AIGP](https://certsgate.com/exams/iapp/aigp), which provides study materials and practice questions.
+For preparation, I recommend [CertsGate AIGP](https://certsgate.com/exams/iapp/aigp), which provides study materials and practice questions.
 
 Explore the resources, strengthen your AI governance knowledge, and take the next step toward your own professional achievement. Learning becomes more valuable when knowledge is shared!
 
